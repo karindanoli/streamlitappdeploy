@@ -47,3 +47,7 @@ if pagina == 'Sobre':
              Esse texto
              $$\int_a^b f(x)dx = F(b) - F(a)$$
                       """)
+
+
+    #https://karindanoli-streamlitappdeploy-main-oxqry7.streamlitapp.com/
+    # https: // docs.streamlit.io / library / cheatsheet
